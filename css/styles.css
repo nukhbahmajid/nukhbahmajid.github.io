@@ -1,0 +1,212 @@
+body {
+  background-color: #00000;
+  margin: 0;
+  text-align: center;
+
+}
+
+h1 {
+  font-size: 437.5%;
+  width: 30vw;
+  margin: 0 auto 0 auto;
+  padding-top: 6.5vw;
+  font-family:'Poiret One', cursive;
+}
+
+h2 {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  font-size: 245%;
+
+}
+
+h3 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 175%
+}
+
+
+hr {
+  background-color: #fff1c1;
+	border-top: 2px dashed #8c8b8b;
+  width: 100%;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.5rem;
+  margin: 3%
+}
+
+a {
+  color: #35b0ab;
+  font-size: 1.7vw;
+  font-family: 'Raleway', sans-serif;
+}
+
+a:hover {
+  color: #226b80;
+}
+
+/*the class tag customizations start below.*/
+
+.top {
+  background-color:  #D3F6F3;
+  position: relative;
+  height: 600px;
+  width: 100%;
+}
+
+.top-hr {
+  margin-top: 0;
+  margin-bottom:0;
+}
+
+.main-body{
+  background-color: #fff1c1;
+}
+
+.intro{
+  display: inline-block;
+  margin: 0;
+  font-family: 'Raleway', sans-serif;
+  padding-top: 10px;
+  font-weight: normal;
+  margin-bottom: 10px;
+}
+
+
+.polarbear {
+  width: 300px;
+  height: auto;
+  position: absolute;
+  bottom: 0;
+  left: 40vw;
+  margin-top: 1vw;
+
+}
+
+.me_icon {
+  height: 150px;
+  margin-top: 5%;
+  border-radius: 50%;
+  border: 10px solid #000000;
+}
+
+.skills-icon {
+  height: 140px;
+  text-align: center;
+  position: relative;
+  bottom: 15px;
+  width: 14%;
+  float: left;
+  padding-right: 30px;
+}
+
+.interests-icon {
+  height: 140px;
+  text-align: center;
+  width: 13%;
+  float: right;
+  position: relative;
+  top: 15px;
+  padding-left: 30px;
+  padding-bottom: 10px;
+}
+
+.skills-heading {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+
+.skill-row {
+  width: 70vw;
+  text-align: left;
+  margin: auto;
+  line-height: 1.5;
+}
+
+.dd-heading {
+  color: #cf455c;
+}
+
+.research-heading {
+  position: relative;
+  left: 2vw;
+  color:#cf455c;
+}
+
+.contact-me {
+  width: 70vw;
+  text-align: center;
+  margin: auto;
+}
+
+.anime {
+  color: #cf455c;
+}
+
+.mid-end-hr {
+  margin-bottom: 0;
+}
+
+.get-in-touch {
+  padding-top: 2vw;
+  margin-top: 0;
+}
+
+.butn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #0f3952);
+  background-image: -moz-linear-gradient(top, #3498db, #0f3952);
+  background-image: -ms-linear-gradient(top, #3498db, #0f3952);
+  background-image: -o-linear-gradient(top, #3498db, #0f3952);
+  background-image: linear-gradient(to bottom, #3498db, #0f3952);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  text-shadow: 1px 1px 3px #291c29;
+  font-family: Arial;
+  color: #f5f5f5;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin:auto;
+}
+
+.butn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  color: #f5f5f5;
+  text-decoration: none;
+}
+
+.contact-belowbr {
+  margin: 3vw;
+}
+
+.footer {
+  background-color: #D3F6F3;
+}
+
+.end-hr {
+  margin: 2.5vw 0 2.5vw 0;
+  width: 100%;
+}
+
+.footer-link {
+  margin: 50px 100px 50px 100px;
+  text-decoration: none;
+
+}
+
+.end-copyright {
+  margin-bottom: 0;
+  padding-bottom: 20px;
+  font-size: 0.75rem;
+}
